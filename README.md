@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Daniel
-- 👀 I’m interested in backend development & test automation
-- 🔭 I’m currently working on web application Walletfy! which makes money menagement easier
-- 🌱 I’m currently learning web developer tools (PHP, JS, HTML, CSS, SQL) & test automation tools
+- 👀 I’m interested in test automation using Cypress+JavaScript and Selenium+Python
+- 🔭 I’m currently working on Selenium and Python based framework for test automation
+- 🌱 I’m currently learning: advanced Cypress e2e tests as well as Selenium e2e tests written in Python 3.x
 - 📫 How to reach me : d.rudnik@vp.pl
 
 <!---
