@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Daniel
-- 👀 I’m interested in test automation using Cypress+JavaScript and Selenium+Python
+- 👀 I’m Test Automation Engineer using Playwright+Typescript, Cypress+JavaScript and Selenium+Python
 - 🔭 I’m currently working on Selenium and Python based framework for test automation
 - 🌱 I’m currently learning: advanced Cypress e2e tests as well as Selenium e2e tests written in Python 3.x
 - 📫 How to reach me : d.rudnik@vp.pl
