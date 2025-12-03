@@ -1,8 +1,7 @@
 - 👋 Hi, I'm Daniel
-- 👀 I’m Test Automation Engineer using Playwright+Typescript, Cypress+JavaScript and Selenium+Python
+- 👀 I’m Test Automation Engineer using Playwright+Typescript, Cypress+JavaScript, Selenium+Python and Locust io+Python
 - 🔭 I’m currently working on Selenium and Python based framework for test automation
-- 🌱 I’m currently learning: advanced Cypress e2e tests as well as Selenium e2e tests written in Python 3.x
-- 📫 How to reach me : d.rudnik@vp.pl
+- 📫 How to reach me : daniel.rudnik@punks.com
 
 <!---
 danrud89/danrud89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
